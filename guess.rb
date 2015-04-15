@@ -10,7 +10,7 @@ puts number
   alert "Sorry your guess was too low"
   else
   alert "Correct answer"
+  alert "Congratulations you have guess the correct number"
   break
   end
-alert "Congratulations you have guess the correct number"
 end
